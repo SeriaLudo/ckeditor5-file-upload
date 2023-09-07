@@ -11,13 +11,13 @@
     "plugin"
   ],
   "dependencies": {
-    "@ckeditor/ckeditor5-core": "^35.3.1",
-    "@ckeditor/ckeditor5-upload": "^35.3.2",
-    "@ckeditor/ckeditor5-ui": "^35.3.2",
-    "@ckeditor/ckeditor5-clipboard": "^35.3.2",
-    "@ckeditor/ckeditor5-engine": "^35.3.2",
-    "@ckeditor/ckeditor5-utils": "^35.3.2",
-    "@ckeditor/ckeditor5-widget": "^35.3.2"
+    "@ckeditor/ckeditor5-core": "^39.0.2",
+    "@ckeditor/ckeditor5-upload": "^39.0.2",
+    "@ckeditor/ckeditor5-ui": "^39.0.2",
+    "@ckeditor/ckeditor5-clipboard": "^39.0.2",
+    "@ckeditor/ckeditor5-engine": "^39.0.2",
+    "@ckeditor/ckeditor5-utils": "^39.0.2",
+    "@ckeditor/ckeditor5-widget": "^39.0.2"
   },
   "repository": {
     "type": "git",
@@ -26,7 +26,7 @@
   "bugs": {
     "url": "https://github.com/eMAGTechLabs/ckeditor5-file-upload/issues"
   },
-  "author": "piriianulavinia",
+  "author": "SeriaLudo",
   "license": "GPL-3.0",
   "homepage": "https://github.com/eMAGTechLabs/ckeditor5-file-upload#readme",
   "devDependencies": {},
